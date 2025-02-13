@@ -80,7 +80,7 @@ const LimitedEdition = () => {
     <>
       <div className="limitedProductSection">
         <h2>
-          Limited <span>Edition</span>
+          Limited <span>Time</span>
         </h2>
         <div className="limitedProductSlider">
           <div className="swiper-button image-swiper-button-next">
@@ -146,7 +146,7 @@ const LimitedEdition = () => {
                     </div>
                     <div className="limitedProductInfo">
                       <div className="lpCategoryWishlist">
-                        <p>Dresses</p>
+                        <p>fruits</p>
                         <FiHeart
                           onClick={() => handleWishlistClick(product.productID)}
                           style={{
@@ -161,7 +161,7 @@ const LimitedEdition = () => {
                         <Link to="/Product" onClick={scrollToTop}>
                           <h5>{product.productName}</h5>
                         </Link>
-                        <p>${product.productPrice}</p>
+                        <p>{product.productPrice}</p>
                         <div className="productRatingReviews">
                           <div className="productRatingStar">
                             <FaStar color="#FEC78A" size={10} />

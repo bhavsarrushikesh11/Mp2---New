@@ -8,7 +8,7 @@
 }
 
 .bannerLeft {
-  background-image: url("../../../Assets/Banner/banner_1.jpg");
+  background-image: url("https://img.freepik.com/free-photo/top-view-delicious-fruit-composition-fresh-sliced-fruits-dark-background-ripe-fresh-health-diet-fruits-mellow_140725-116221.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -19,7 +19,7 @@
 }
 
 .bannerRight {
-  background-image: url("../../../Assets/Banner/banner_2.jpg");
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/284191817/display_1500/stock-vector-fresh-food-vector-logo-design-template-fruits-and-vegetables-or-gardening-horticulture-icon-284191817.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
