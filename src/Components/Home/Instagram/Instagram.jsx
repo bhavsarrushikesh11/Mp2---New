@@ -2,18 +2,18 @@ import React from "react";
 import "./Instagram.css";
 
 const foodImages = [
-    "https://images.pexels.com/photos/161559/vegetables-broccoli-potatoes-onions-161559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", // Vegetables
-    "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Assorted Fruits
-    "https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",     // Dairy Products
-    "https://images.pexels.com/photos/760148/pexels-photo-760148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Apples
-    "https://images.pexels.com/photos/416772/pexels-photo-416772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Bananas
-    "https://images.pexels.com/photos/672751/pexels-photo-672751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Pomegranate
-    "https://images.pexels.com/photos/692036/pexels-photo-692036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Variety of Vegetables
-    "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Grapes
-    "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Mango
-    "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Leafy Greens
-    "https://images.pexels.com/photos/5947970/pexels-photo-5947970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",   // Kiwi
-    "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"      // Milk
+    "https://i.pinimg.com/736x/d3/a7/28/d3a7289d444034d938066c0f04ded60f.jpg", // lychee
+    "https://i.pinimg.com/474x/7a/57/30/7a573047d0c690bee9a073af6193109b.jpg",   // Custurd Apple
+    "https://i.pinimg.com/474x/03/9d/21/039d217dac73945bd1fdc80f53fc52ff.jpg",     // Elaychi
+    "https://i.pinimg.com/474x/dc/04/4f/dc044f2e5d032372ed259130b68d84fa.jpg",   // Tomato
+    "https://i.pinimg.com/474x/44/a4/d0/44a4d077b2435331c1bb8f33280c1d43.jpg",   // watermelon
+    "https://i.pinimg.com/474x/42/6a/74/426a74adf91110730675ec2a0c322eae.jpg",   // Grill maize
+    "https://i.pinimg.com/474x/b7/a1/53/b7a1530d2dd669864cff727371bfb201.jpg",   // Mangoes
+    "https://i.pinimg.com/474x/f5/30/d4/f530d4d2d863970a18bfb1bb76375b7e.jpg",   // Copy Seeds
+    "https://i.pinimg.com/474x/d2/f1/df/d2f1df884bb57cfacd9724106238d6c0.jpg",   // Spice
+    "https://i.pinimg.com/474x/fc/69/75/fc6975bd4cafcd234d16cb55d1d38135.jpg",   // Cabbage
+    "https://i.pinimg.com/474x/4f/01/b2/4f01b2adc5046c0764f51d5e439e87a4.jpg",   // Dairy Product
+    "https://i.pinimg.com/474x/88/83/ef/8883ef0c3a30ef2a705a58191ba8ad95.jpg"      // Honey
 ];
 
 const Instagram = () => {

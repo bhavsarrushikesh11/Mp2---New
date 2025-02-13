@@ -551,10 +551,7 @@ const ShoppingCart = () => {
                       <div className="checkoutPaymentMethod">
                         <span>Check Payments</span>
                         <p>
-                          Phasellus sed volutpat orci. Fusce eget lore mauris
-                          vehicula elementum gravida nec dui. Aenean aliquam
-                          varius ipsum, non ultricies tellus sodales eu. Donec
-                          dignissim viverra nunc, ut aliquet magna posuere eget.
+                        Check Payments
                         </p>
                       </div>
                     </label>
@@ -568,10 +565,7 @@ const ShoppingCart = () => {
                       <div className="checkoutPaymentMethod">
                         <span>Cash on delivery</span>
                         <p>
-                          Phasellus sed volutpat orci. Fusce eget lore mauris
-                          vehicula elementum gravida nec dui. Aenean aliquam
-                          varius ipsum, non ultricies tellus sodales eu. Donec
-                          dignissim viverra nunc, ut aliquet magna posuere eget.
+                        Cash on delivery
                         </p>
                       </div>
                     </label>
@@ -585,10 +579,7 @@ const ShoppingCart = () => {
                       <div className="checkoutPaymentMethod">
                         <span>Paypal</span>
                         <p>
-                          Phasellus sed volutpat orci. Fusce eget lore mauris
-                          vehicula elementum gravida nec dui. Aenean aliquam
-                          varius ipsum, non ultricies tellus sodales eu. Donec
-                          dignissim viverra nunc, ut aliquet magna posuere eget.
+                        Paypal
                         </p>
                       </div>
                     </label>
