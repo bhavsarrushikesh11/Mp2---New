@@ -37,7 +37,7 @@ const Footer = () => {
             <p>Mumbai , maharastra </p>
 
             <div className="footer_address">
-              <strong>68346675867  </strong>
+              <strong>9356733878  </strong>
               <strong> </strong>
             </div>
 
@@ -139,14 +139,16 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © {getCurrentYear()} Uomo. All Rights Reserved | Made By{" "}
+            © {getCurrentYear()} Kisan-ki-dukan.| Made By{" "}
             <a
               href="https://github.com/shakti177"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
             >
-              Swami Chaudhari
+              Swami Chaudhari,
+              rushikesh Bhavsar,
+              Prashant Patil
             </a>{" "}
             with ❤️
           </p>
@@ -154,10 +156,10 @@ const Footer = () => {
             <div className="footerLang">
               <p>Language</p>
               <select name="language" id="language">
-                <option value="english">United States | English</option>
+                <option value="english">English</option>
                 <option value="Hindi">Hindi</option>
-                <option value="Germany">Germany</option>
-                <option value="French">French</option>
+                <option value="Germany">Marathi</option>
+                <option value="French">Gujrati</option>
               </select>
             </div>
             <div className="footerCurrency">

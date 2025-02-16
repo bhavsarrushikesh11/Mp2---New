@@ -48,7 +48,7 @@ const CollectionBox = () => {
             <div className="box-content">
               <p className="col-p">Best Quality</p>
               <h3 className="col-h3">
-                <span>Berry</span> Collection
+                <span>Banana</span> Collection
               </h3>
               <div className="col-link">
                 <Link to="/marketplace" onClick={scrollToTop}>
