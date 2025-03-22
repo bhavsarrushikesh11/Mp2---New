@@ -35,6 +35,17 @@ const LoginSignUp = () => {
                 <form>
                   <input type="email" placeholder="Email address *" required />
                   <input type="password" placeholder="Password *" required />
+                  <div className="loginSignUpDropdown">
+                    <label htmlFor="userType">User Type *</label>
+                    <select id="userType" name="userType" required>
+                      <option value="" disabled selected>
+                        Select User Type
+                      </option>
+                      <option value="Farmer">Farmer</option>
+                      <option value="Customer">Customer</option>
+                      <option value="Retailer">Retailer</option>
+                    </select>
+                  </div>
                   <div className="loginSignUpForgetPass">
                     <label>
                       <input type="checkbox" className="brandRadio" />
@@ -65,6 +76,17 @@ const LoginSignUp = () => {
                   <input type="text" placeholder="Username *" required />
                   <input type="email" placeholder="Email address *" required />
                   <input type="password" placeholder="Password *" required />
+                  <div className="loginSignUpDropdown">
+                    <label htmlFor="userType">User Type *</label>
+                    <select id="userType" name="userType" required>
+                      <option value="" disabled selected>
+                        Select User Type
+                      </option>
+                      <option value="Farmer">Farmer</option>
+                      <option value="Customer">Customer</option>
+                      <option value="Retailer">Retailer</option>
+                    </select>
+                  </div>
                   <p>
                     Your personal data will be used to support your experience
                     throughout this website, to manage access to your account,
